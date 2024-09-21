@@ -75,6 +75,7 @@ p {
     bottom: 10px;
     text-decoration:line-through;
     font-family: "Montserrat";
+    font-size: 13px;
     font-weight: 500;
     color: hsl(228, 12%, 48%);
 }
